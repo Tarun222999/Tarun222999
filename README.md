@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hi, I'm Tarun Kumar ðŸ‘‹
+# Hi, I'm Tarun Kumar
 
-### Full-Stack Engineer Â· Backend Systems
+### Full-Stack Engineer | Backend Systems
 
 I build reliable web and mobile products with a focus on distributed systems, real-time communication, and secure backend architecture.
 
@@ -20,7 +20,7 @@ I build reliable web and mobile products with a focus on distributed systems, re
 
 ## Featured projects
 
-### [Pulse](https://pulse-chat.tarunapps.com) â€” Distributed real-time communication platform
+### [Pulse](https://pulse-chat.tarunapps.com) - Distributed real-time communication platform
 
 A production chat workspace for personal messages, encrypted temporary rooms, and AI conversations.
 
@@ -28,9 +28,9 @@ A production chat workspace for personal messages, encrypted temporary rooms, an
 - Uses event-driven microservices, reliable cross-service synchronization, and Redis-backed ephemeral messaging
 - Supports browser-side AES-GCM encryption for short-lived private rooms
 
-**[Frontend](https://github.com/Tarun222999/pulse-chat)** Â· **[Backend](https://github.com/Tarun222999/pulse_chat_polyglot)** Â· **[Live app](https://pulse-chat.tarunapps.com)**
+**[Frontend](https://github.com/Tarun222999/pulse-chat)** | **[Backend](https://github.com/Tarun222999/pulse_chat_polyglot)** | **[Live app](https://pulse-chat.tarunapps.com)**
 
-### [Revit](https://revit.tarunapps.com/revit/) â€” Entertainment journal for movies, series, and anime
+### [Revit](https://revit.tarunapps.com/revit/) - Entertainment journal for movies, series, and anime
 
 A published React Native application for tracking, rating, reviewing, and organizing entertainment.
 
@@ -38,7 +38,7 @@ A published React Native application for tracking, rating, reviewing, and organi
 - Uses Supabase Edge Functions, PostgreSQL, authentication, and Row Level Security
 - Available on Google Play
 
-**[Source](https://github.com/Tarun222999/revit)** Â· **[Google Play](https://play.google.com/store/apps/details?id=com.tarun.revit)** Â· **[Website](https://revit.tarunapps.com/revit/)**
+**[Source](https://github.com/Tarun222999/revit)** | **[Google Play](https://play.google.com/store/apps/details?id=com.tarun.revit)** | **[Website](https://revit.tarunapps.com/revit/)**
 
 ## Technologies
 
@@ -53,8 +53,8 @@ A published React Native application for tracking, rating, reviewing, and organi
 ## Engineering interests
 
 ```text
-Distributed systems  Â·  Real-time applications  Â·  Event-driven architecture
-Backend platforms    Â·  API design              Â·  Developer experience
+Distributed systems  |  Real-time applications  |  Event-driven architecture
+Backend platforms    |  API design              |  Developer experience
 ```
 
 ---
